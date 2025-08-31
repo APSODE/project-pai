@@ -13,7 +13,7 @@ Project PC Specifications
 -
 <h5> CPU : Ryzen R9 9950X3D</h5>
 <h5> RAM : DDR5 5600 128GB</h5>
-<h5> GPU : Nvidia RTX 3090 x 2</h5>
+<h5> GPU : Nvidia RTX 5090</h5>
 <h5> PWR : SuperFlower 1000W</h5>
 
 So, when does the project start?
